@@ -13,6 +13,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Autoencoders/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autoencoders?style=for-the-badge&color=blue" alt="Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autoencoders/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Autoencoders?style=for-the-badge&color=red" alt="Issues"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autoencoders/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Autoencoders?style=for-the-badge&color=green" alt="License"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
